@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital city of France?",
+      "options": [
+        "Berlin",
+        "London",
+        "Paris",
+        "Madrid"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": [
+        "William Wordsworth",
+        "William Shakespeare",
+        "John Keats",
+        "George Orwell"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "What is the chemical symbol for water?",
+      "options": [
+        "WO",
+        "H2O",
+        "O2H",
+        "OH2"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "What is the largest mammal in the world?",
+      "options": [
+        "African Elephant",
+        "Blue Whale",
+        "Giraffe",
+        "Hippopotamus"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Which language is used to style web pages?",
+      "options": [
+        "HTML",
+        "jQuery",
+        "CSS",
+        "XML"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "How many continents are there on Earth?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "In computing, what does 'CPU' stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Performance Utility",
+        "Control Program Unit"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 9,
+      "question": "What year did World War II end?",
+      "options": [
+        "1945",
+        "1939",
+        "1918",
+        "1965"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Which element has the atomic number 1?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Helium",
+        "Carbon"
+      ],
+      "correctAnswerIndex": 1
+    }
+  ]
+}
