@@ -28,7 +28,7 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
+  .logo {
     animation: logo-spin infinite 20s linear;
   }
 }
@@ -39,4 +39,25 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.holder {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* two equal columns */
+  grid-auto-rows: minmax(100px, auto);   /* each row min-100px tall */
+  gap: 16px; 
+}
+
+.error {
+  background: rgb(172, 0, 0);
+  border-color: rgb(212, 1, 1)
+}
+
+.success {
+  background: rgb(0, 155, 0);
+  border-color: rgb(0, 187, 0);
+}
+
+.footer {
+  margin-top: 70px;
 }
